@@ -1,0 +1,6 @@
+{
+  "name": "CareConnect – Smart Healthcare Navigation & Appointment Booking System",
+  "description": "Smart healthcare navigation, multilingual AI triage, live hospital OP token queue tracking, and real-time doctor availability for Visakhapatnam (Vizag).",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
